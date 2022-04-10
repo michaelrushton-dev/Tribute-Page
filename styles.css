@@ -1,1 +1,31 @@
-/* Copy and paste your CSS from CodePen into here */
+body{
+  background:green;
+  font-family:quicksand;
+}
+#title{
+  text-align:center;
+  font-size:3em;
+}
+
+#img-div{
+  text-align:center;
+  margin:auto;
+  width:33%;
+}
+
+#caption{
+  color:#FF0;
+  background-color:black;
+  width:100%;
+}
+
+#tribute-info{
+  text-align:center;
+}
+
+#image{
+  width:600px;
+  max-width:100%;
+  border: 2px solid red;
+  border-radius: 25px;
+}
